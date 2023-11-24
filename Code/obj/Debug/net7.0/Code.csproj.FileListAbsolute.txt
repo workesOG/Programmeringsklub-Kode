@@ -26,3 +26,17 @@ S:\GitHub Desktop\Programmeringsklub-Kode\Code\obj\Debug\net7.0\refint\Code.dll
 S:\GitHub Desktop\Programmeringsklub-Kode\Code\obj\Debug\net7.0\Code.pdb
 S:\GitHub Desktop\Programmeringsklub-Kode\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
 S:\GitHub Desktop\Programmeringsklub-Kode\Code\obj\Debug\net7.0\ref\Code.dll
+D:\GitHub Repositories\Programmeringsklub-Code\Code\bin\Debug\net7.0\Code.exe
+D:\GitHub Repositories\Programmeringsklub-Code\Code\bin\Debug\net7.0\Code.deps.json
+D:\GitHub Repositories\Programmeringsklub-Code\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+D:\GitHub Repositories\Programmeringsklub-Code\Code\bin\Debug\net7.0\Code.dll
+D:\GitHub Repositories\Programmeringsklub-Code\Code\bin\Debug\net7.0\Code.pdb
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.dll
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\refint\Code.dll
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.pdb
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+D:\GitHub Repositories\Programmeringsklub-Code\Code\obj\Debug\net7.0\ref\Code.dll
