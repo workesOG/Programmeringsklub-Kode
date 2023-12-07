@@ -8,12 +8,13 @@ class Program
     static void Main(string[] args)
     {
         GetScripts();
-        scripts["Functions.js"].Invoke(); //Put the script you want to run in this field. Use the full name (plus extension, for example 'Variables.js').
+        scripts["Classes.cs"].Invoke(); //Put the script you want to run in this field. Use the full name (plus extension, for example 'Variables.js').
     }
 
     static void GetScripts()
     {
-        scripts.Add("Variables.js", () => {Variables variables = new(); variables.Main();});
-        scripts.Add("Functions.js", () => {Functions functions = new(); functions.Main();});
+        scripts.Add("Variables.cs", () => { Variables variables = new(); variables.Main(); });
+        scripts.Add("Functions.cs", () => { Functions functions = new(); functions.Main(); });
+        scripts.Add("Classes.cs", () => { Classes classes = new(); classes.Main(); });
     }
 }
